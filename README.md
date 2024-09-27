@@ -1,2 +1,2 @@
 # App
- Quote App
+ Image classifier
