@@ -1,2 +1,0 @@
-# App
- Quote App
